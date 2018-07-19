@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508612344 source:c:\users\krzysztof piórkowski\documents\visual studio 2015\se_drony\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+

@@ -1,0 +1,7 @@
+6
+W DJI S1000 Octocopter
+X FPV 250 Racer One
+Y DJI Phantom 4
+Z MQ-1 Predator
+V Rozpoznawczy Gryf lub Zefir
+ZZ Testowy Dron

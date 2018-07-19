@@ -1,0 +1,11 @@
+10
+A Czy dron ma posiadac wiecej niz cztery silniki?
+B Czy masa startowa ma byc ponizej 2 kg?
+C Czy musi posiadac systemy telemtrii?
+D Czy ma miec on zastosowania sportowe?
+E Czy musi on posiadac profesjonalny sprzet fotograficzny?
+F Czy musi on posiadac sprzet FPV (transmisja audio-wideo)?
+G Czy Twoj budzet wynosi powyzej 1500 zl?
+H Czy zalezy Ci na dlugim czasie lotu?
+I Czy posiadasz kwalifikacje UAVO?
+J Czy ma miec konstrukcje obudowana?
